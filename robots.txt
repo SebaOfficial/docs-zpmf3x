@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tg5z0i.saturadar88.shop/sitemap.xml
